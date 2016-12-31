@@ -22,3 +22,11 @@ You can then execute the bundled javascript when you are ready by calling:
 ```
 init()
 ```
+
+### Install from NPM
+
+**Install** `rollup` and `rollup-plugin-init` from npm and save it to your `package.json` file:
+
+```sh
+npm install env2 --save-dev
+```
