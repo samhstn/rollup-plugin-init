@@ -1,4 +1,7 @@
-[![Travis](https://img.shields.io/travis/shouston3/rollup-plugin-init.svg?style=flat-square)](https://travis-ci.org/shouston3/rollup-plugin-init)
+[![Travis][travis-image]][travis-url]
+[![Coveralls][coverage-image]][coverage-url]
+[![Dependencies][dependencies-image]][dependencies-url]
+[![DevDependencies][dev-dependencies-image]][dev-dependencies-url]
 
 # Rollup Plugin Init
 
@@ -46,3 +49,16 @@ rollup({
 ```
 npm install rollup rollup-plugin-init --save-dev
 ```
+
+[travis-image]:https://img.shields.io/travis/shouston3/rollup-plugin-init.svg?style=flat-square
+[travis-url]:https://travis-ci.org/shouston3/rollup-plugin-init
+
+[coverage-image]:https://img.shields.io/coveralls/shouston3/rollup-plugin-init.svg?style=flat-square
+[coverage-url]:https://coveralls.io/github/shouston3/rollup-plugin-init?branch=master
+
+[dependencies-image]:https://david-dm.org/shouston3/rollup-plugin-init.svg?style=flat-square
+[dependencies-url]:https://david-dm.org/shouston3/rollup-plugin-init
+
+[dev-dependencies-image]:https://david-dm.org/shouston3/rollup-plugin-init/dev-status.svg?style=flat-square
+[dev-dependencies-url]:https://david-dm.org/shouston3/rollup-plugin-init?type=dev
+
