@@ -1,13 +1,21 @@
 {
   "name": "rollup-plugin-init",
   "version": "1.0.0",
-  "description": "",
+  "description": "rollup plugin to be able to invoke your bundled js when you want",
+  "repository": "https://github.com/shouston3/rollup-plugin-init.git",
   "main": "index.js",
   "scripts": {
     "test": "node test/test.js",
     "cover": "node_modules/.bin/istanbul cover test/test.js"
   },
-  "keywords": [],
+  "keywords": [
+    "rollup",
+    "rollup-plugin",
+    "init"
+  ],
+  "files": [
+    "src"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
