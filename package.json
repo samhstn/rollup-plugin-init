@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-init",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "rollup plugin to be able to invoke your bundled js when you want",
   "repository": "https://github.com/shouston3/rollup-plugin-init.git",
   "main": "src/rollup-plugin-init.js",
