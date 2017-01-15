@@ -23,7 +23,7 @@
   "devDependencies": {
     "coveralls": "^2.11.15",
     "istanbul": "^0.4.5",
-    "rollup": "^0.39.2",
+    "rollup": "^0.41.4",
     "tape": "^4.6.3"
   },
   "dependencies": {}
